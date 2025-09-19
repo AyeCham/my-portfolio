@@ -14,7 +14,7 @@ export default function Hero() {
           </p>
           <div className="actions">
             <a href="#projects" className="btn btn--primary">View Projects</a>
-            <a href={`${import.meta.env.BASE_URL}document/MyResume.pdf`} target="_blank" rel="noopener" className="btn btn--primary" s>View Résumé</a>
+            <a href={`${import.meta.env.BASE_URL}document/MyResume.pdf`} target="_blank" rel="noopener" className="btn btn--primary">View Résumé</a>
           </div>
           <p className="muted small">📍 Chiang Rai, Thailand · Open to internships & freelance</p>
         </div>
