@@ -6,7 +6,7 @@ export default function Footer() {
   return (
     <footer className="footer">
       <div className="container">
-        © {year} Bee — Built with React & CSS
+        © {year} Chan — Built with React & CSS
       </div>
     </footer>
   )
