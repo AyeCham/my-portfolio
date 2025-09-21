@@ -48,20 +48,20 @@ export default function Contact() {
             <ul className="contact-list">
               <li>
                 <a href="mailto:ayechanaung.dec27@gmail.com" title="Send me an email">
-                  📧 ayechanaung.dec27@gmail.com
+                   ayechanaung.dec27@gmail.com
                 </a>
               </li>
               <li>
                 <a href="https://github.com/AyeCham" target="_blank" rel="noopener">
-                  🐙 github.com/AyeCham
+                   github.com/AyeCham
                 </a>
               </li>
               <li>
                 <a href="https://linkedin.com/in/ayecham" target="_blank" rel="noopener">
-                  🔗 linkedin.com/in/ayecham
+                   linkedin.com/in/ayecham
                 </a>
               </li>
-              <li className="muted">📍 Chiang Rai, TH</li>
+              <li className="muted"> Chiang Rai, TH</li>
             </ul>
           </div>
 
